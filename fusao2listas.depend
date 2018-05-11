@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1525634091 source:c:\users\thiago\desktop\fusao2listas\teste.c
+	"teste.h"
+
+1525634129 c:\users\thiago\desktop\fusao2listas\teste.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525634175 source:c:\users\thiago\desktop\fusao2listas\main.c
+	"teste.h"
+
+1526038552 source:c:\users\thiago\google drive\faculdade\2º ano\estrutura de dados\fusao2listas\main.c
+	"teste.h"
+
+1526011336 c:\users\thiago\google drive\faculdade\2º ano\estrutura de dados\fusao2listas\teste.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526038708 source:c:\users\thiago\google drive\faculdade\2º ano\estrutura de dados\fusao2listas\teste.c
+	"teste.h"
+
+1526036947 source:c:\users\thiago\downloads\fusaolistas-master\fusaolistas-master\main.c
+	"teste.h"
+
+1526011336 c:\users\thiago\downloads\fusaolistas-master\fusaolistas-master\teste.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526038504 source:c:\users\thiago\downloads\fusaolistas-master\fusaolistas-master\teste.c
+	"teste.h"
+
